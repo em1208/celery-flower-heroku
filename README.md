@@ -22,3 +22,5 @@ Push to heroku:
     git push heroku master
 
 Now visit the app. It will ask for a username and a password which you defined above.
+
+Updated requirements and Procfile to make it work. Thanks jorilallo for the sharing.
